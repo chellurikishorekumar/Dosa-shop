@@ -9,3 +9,7 @@
 * Karam and oil
 
 ## Masala Dosa
+* Dosa Batter
+* Ghee
+* Masala
+* Onions
